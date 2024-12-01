@@ -28,10 +28,12 @@ Install package for running this project
 # Running Project 
 
 * Api.py
+  Masuk kedalam direktori api.py dan jalankan
   ```sh
   python api.py
   ```
 * app_gui.py
+  Masuk kedalam direktori app_gui.py dan jalankan
   ```sh
   python app_gui.py
   ```
