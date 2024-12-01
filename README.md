@@ -28,4 +28,5 @@ Install package for running this project
 
 # image
 
-![img]()
+![img](https://github.com/Aqilws/POS_APP/blob/main/images/Screenshot%202024-12-01%20140006.png)
+![img](https://github.com/Aqilws/POS_APP/blob/main/images/Screenshot%202024-12-01%20140026.png)
