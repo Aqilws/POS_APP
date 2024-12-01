@@ -25,6 +25,17 @@ Install package for running this project
   pip install customtkinter
   ```
 
+# Running Project 
+
+* Api.py
+  ```sh
+  python api.py
+  ```
+* app_gui.py
+  ```sh
+  python app_gui.py
+  ```
+
 
 # image
 
