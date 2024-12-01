@@ -1,24 +1,24 @@
 #Install-Package
 
-#flask
+# flask
 * npm
   ```sh
   pip install flask
   ```
 
-#requests
+# requests
 * pip
   ```sh
   pip install requests
   ```
 
-#pillow
+# pillow
 * pip
   ```sh
   pip install pillow
   ```
 
-#customtkinter
+# customtkinter
 * pip
   ```sh
   pip install customtkinter
